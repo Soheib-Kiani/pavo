@@ -4,6 +4,7 @@ import Features from '../components/features';
 import Details from '../components/details';
 import Statistics from '../components/statistics';
 import Comments from '../components/comments';
+import Price from '../components/price';
 export default function Home() {
   return (
     <>
@@ -13,6 +14,7 @@ export default function Home() {
       <Details />
       <Statistics />
       <Comments />
+      <Price />
     </>
   );
 }
