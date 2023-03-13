@@ -9,7 +9,7 @@ const header = () => {
           className="text-gray-800 font-semibold text-3xl leading-4 no-underline page-scroll"
           href="index.html"
         >
-          Pavo
+   
         </Link>
 
         <Link
