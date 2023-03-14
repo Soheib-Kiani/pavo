@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 body,
 p {
     color: #6b747b;

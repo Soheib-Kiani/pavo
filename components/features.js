@@ -62,7 +62,7 @@ const features = () => {
           <div className="card-body">
             <h5 className="card-title">Free Updates</h5>
             <p className="mb-4">
-              Don't worry about future costs, pay once and receive all future
+              Dont worry about future costs, pay once and receive all future
               updates at no extra cost
             </p>
           </div>

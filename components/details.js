@@ -11,7 +11,7 @@ const details = () => {
                 Results driven ground breaking technology
               </h2>
               <p className="mb-4">
-                Based on our team's extensive experience in developing line of
+                Based on our teams extensive experience in developing line of
                 business applications and constructive customer feedback we
                 reached a new level of revenue.
               </p>

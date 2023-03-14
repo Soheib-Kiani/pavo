@@ -19,8 +19,8 @@ const comments = () => {
                   />
                   <div className="card-body">
                     <p className="italic mb-3">
-                      It's been so fun to work with Pavo, I've managed to
-                      integrate it properly into my business flow and it's great
+                      Its been so fun to work with Pavo, Ive managed to
+                      integrate it properly into my business flow and its great
                     </p>
                     <p className="testimonial-author">Jude Thorn - Designer</p>
                   </div>
@@ -37,7 +37,7 @@ const comments = () => {
                   <div className="card-body">
                     <p className="italic mb-3">
                       We were so focused on launching as many campaigns as
-                      possible that we've forgotten to target our loyal
+                      possible that weve forgotten to target our loyal
                       customers
                     </p>
                     <p className="testimonial-author">Roy Smith - Developer</p>
@@ -54,7 +54,7 @@ const comments = () => {
                   />
                   <div className="card-body">
                     <p className="italic mb-3">
-                      I've been searching for a tool like Pavo for so long. I
+                      Ive been searching for a tool like Pavo for so long. I
                       love the reports it generates and the amazing high
                       accuracy
                     </p>
@@ -72,7 +72,7 @@ const comments = () => {
                   />
                   <div className="card-body">
                     <p className="italic mb-3">
-                      We've been waiting for a powerful piece of software that
+                      Weve been waiting for a powerful piece of software that
                       can help businesses manage their marketing projects
                     </p>
                     <p className="testimonial-author">Tim Shaw - Designer</p>
@@ -106,7 +106,7 @@ const comments = () => {
                   />
                   <div className="card-body">
                     <p className="italic mb-3">
-                      The app support team is amazing. They've helped me with
+                      The app support team is amazing. Theyve helped me with
                       some issues and I am so grateful to the entire team
                     </p>
                     <p className="testimonial-author">Ann Blake - Developer</p>

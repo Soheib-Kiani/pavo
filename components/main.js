@@ -14,7 +14,7 @@ const main = () => {
               Team management mobile application
             </h1>
             <p className="p-large mb-8">
-              Start getting things done together with your team based on Pavo's
+              Start getting things done together with your team based on Pavos
               revolutionary team management features
             </p>
             <Link className="btn-solid-lg" href="#your-link">
